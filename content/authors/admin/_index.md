@@ -26,7 +26,7 @@ education:
       year: 2024
     - course: MA in Economics
       institution: Boston University
-      year: 2017
+      year: 2018
     - course: BSc in Economics
       institution: Zhejiang University
       year: 2016
