@@ -1,12 +1,11 @@
 ---
 title: Zheyu Ni
 role: "Ph.D. Candidates in Economics "
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include airline industry, two-sided markets,
+  vertical integration. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Empirical Industrial Organization
+  - Micro Theory
 social:
   - icon: envelope
     icon_pack: fas
