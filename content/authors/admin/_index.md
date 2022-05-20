@@ -30,7 +30,7 @@ education:
     - course: BSc in Economics
       institution: Zhejiang University
       year: 2016
-email: ni.271@osu.edu
+email: ""
 superuser: true
 highlight_name: true
 ---
