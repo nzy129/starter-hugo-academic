@@ -34,8 +34,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+TEST PAGE 
+
 Zheyu Ni is a Ph.D. candidate in Economics at the Ohio State University. Her research interests include the airline industry, the coffee industry, two-sided markets, vertical integration. I estimate the welfare effects on market outcomes using large datasets and structural econometric models. 
-
-
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
