@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Columbus
-    date_start: '2020-05'
+    date_start: '2020-05-01'
     date_end: ''
     description: |2-
        
@@ -40,7 +40,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Columbus
-    date_start: '2019-08'
+    date_start: '2019-08-01'
     date_end: ''
     description: Lead recitation for principle of microeconomics and principle of macroeconomics.
 
