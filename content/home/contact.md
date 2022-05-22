@@ -25,8 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: ni.271 \at\ osu.edu
   address:
     room: 410 Arps Hall
     street: 1945 N. High St.
