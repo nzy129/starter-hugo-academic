@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 100%
     icon: python-brands
-    icon_pack: fab
+    icon_pack: custom
     name: Python
   - description: 100%
     icon: chart-line
