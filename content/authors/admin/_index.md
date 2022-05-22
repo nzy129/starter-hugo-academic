@@ -1,7 +1,7 @@
 ---
 title: Zheyu Ni
 role: "Ph.D. Candidates in Economics "
-bio: "My research interests include airline industry, two-sided markets,
+bio: "My research interests include airline industry, coffee industry, two-sided markets,
   vertical integration. "
 interests:
   - Empirical Industrial Organization
@@ -34,7 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-TEST PAGE 
 
 Zheyu Ni is a Ph.D. candidate in Economics at the Ohio State University. Her research interests include the airline industry, the coffee industry, two-sided markets, vertical integration. I estimate the welfare effects on market outcomes using large datasets and structural econometric models. 
 
