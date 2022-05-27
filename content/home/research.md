@@ -27,11 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Vertical Competition
+      tag: Vertical Competition
+    - name: Two Sided Market
+      tag: Two Sided Market
+    - name: Machine Learning
+      tag: Machine Learning
     - name: Other
       tag: Demo
-
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
