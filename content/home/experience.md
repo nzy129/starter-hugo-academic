@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Columbus
     date_start: '2020-05-01'
-    date_end: ''
+    date_end: '2022-05-15'
     description: |2-
        
         
