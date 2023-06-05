@@ -31,8 +31,8 @@ content:
       tag: Vertical Competition
     - name: Two Sided Market
       tag: Two Sided Market
-    - name: Machine Learning
-      tag: Machine Learning
+    - name: Consumer Behavior
+      tag: Consumer Behavior
     - name: Other
       tag: Demo
 design:
