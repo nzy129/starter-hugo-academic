@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 100%
+  - description: 
     icon: matlab
     icon_pack: custom
     name: MatLab
-  - description: 90%
+  - description: 
     icon: python-brands
     icon_pack: custom
     name: Python
-  - description: 100%
+  - description: 
     icon: chart-line
     icon_pack: fas
     name: Statistics
