@@ -23,7 +23,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: The Ohio State University
-      year: 2024
+      year: 2024 (Expected)
     - course: MA in Economics
       institution: Boston University
       year: 2018
