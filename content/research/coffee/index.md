@@ -1,6 +1,6 @@
 ---
 title: (JMP) Product Variety, Licensing and Vertical Integration in Two-Sided Market
-summary: 	The paper evaluates
+summary: The paper evaluates vertical integration in two-sided markets. Vertical Integration may have anti-competitive effects such as foreclosure, or may have pro-competitive effects: efficient pricing. In the two-sided market, vertical integration. 
 
 tags:
   - Vertical Competition
