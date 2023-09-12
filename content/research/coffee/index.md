@@ -4,7 +4,7 @@ summary: The paper evaluates vertical integration in two-sided markets. Vertical
 
 
 tags:
-  - Vertical Competition
+  - Two-Sided Market
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -20,7 +20,7 @@ image:
   #  name: Follow
   #  url: 
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1ELcBBPm5jNV3ED0lkiSPPGFSRRxx8Fla/view?usp=sharing'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
