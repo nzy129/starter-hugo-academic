@@ -29,8 +29,8 @@ content:
       tag: '*'
     - name: Vertical Competition
       tag: Vertical Competition
-    - name: Two Sided Market
-      tag: Two Sided Market
+    - name: Two-Sided Market
+      tag: Two-Sided Market
     - name: Consumer Behavior
       tag: Consumer Behavior
     - name: Other
