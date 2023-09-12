@@ -1,6 +1,6 @@
 ---
-title: (JMP) Product Variety, Licensing and Vertical Integration in Two-Sided Market
-summary: 	The paper evaluates vertical integration in two-sided markets. ion due to a stronger incentive to attract new consumers and this would lead to welfare gains in 9 of the markets while it's not likely in the one-sided markets. 
+title:  Product Variety, Licensing and Vertical Integration in Two-Sided Market
+summary: 	The paper evaluates
 
 tags:
   - Vertical Competition
