@@ -1,5 +1,5 @@
 ---
-title:  Product Variety, Licensing and Vertical Integration in Two-Sided Market
+title: (JMP) Product Variety, Licensing and Vertical Integration in Two-Sided Market
 summary: 	The paper evaluates
 
 tags:
