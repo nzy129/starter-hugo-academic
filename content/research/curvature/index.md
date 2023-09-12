@@ -1,6 +1,6 @@
 ---
 title: “Nested Logit or Random Coefficient Logit? From the Perspective of Demand Curvature” 
-summary: 
+summary: In Progress
 
 
 tags:
