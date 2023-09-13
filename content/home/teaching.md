@@ -25,7 +25,7 @@ experience:
   - title: Instructor
     company: The Ohio State University
     company_url: ''
-    company_logo: org-OSU
+    company_logo: org-OSU2
     location: Columbus
     date_start: '2020-05-01'
     date_end: '2022-05-15'
@@ -38,7 +38,7 @@ experience:
   - title: Graduate Teaching Assistant
     company: The Ohio State University
     company_url: ''
-    company_logo: org-OSU
+    company_logo: org-OSU2
     location: Columbus
     date_start: '2019-08-01'
     date_end: ''
