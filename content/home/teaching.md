@@ -44,7 +44,7 @@ experience:
     date_end: ''
     description:  |2-
        
-        Lead recitation for the principle of microeconomics and the principle of macroeconomics.
+        * Lead recitation for the principle of microeconomics and the principle of macroeconomics.
 
 design:
   columns: '2'
