@@ -43,7 +43,7 @@ experience:
     date_start: '2019-08-01'
     date_end: ''
     description:
-     * Lead recitation for principle of microeconomics and principle of macroeconomics.
+     Lead recitation for the principle of microeconomics and the principle of macroeconomics.
 
 design:
   columns: '2'
