@@ -42,7 +42,7 @@ experience:
     location: Columbus
     date_start: '2019-08-01'
     date_end: ''
-    description: |2-
+    description:
      Lead recitation for principle of microeconomics and principle of macroeconomics.
 
 design:
