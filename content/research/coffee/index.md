@@ -20,7 +20,7 @@ image:
   #  name: Follow
   #  url: 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1VRLC7ljGz7wPFiQeeEP37v0Utpns_xbd/view?usp=drive_link'
 url_slides: ''
 url_video: ''
 
