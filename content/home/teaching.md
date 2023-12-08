@@ -25,15 +25,16 @@ experience:
   - title: Instructor
     company: The Ohio State University
     company_url: ''
-    text: 'syllabus'
-    url: 'https://drive.google.com/file/d/1VRLC7ljGz7wPFiQeeEP37v0Utpns_xbd/view?usp=drive_link'
+    
+    
     company_logo: org-OSU2
     location: Columbus
     date_start: '2020-05-01'
     date_end: '2022-05-15'
     description: |2-
-       
-        
+
+    text: 'syllabus'
+    url: 'https://drive.google.com/file/d/1VRLC7ljGz7wPFiQeeEP37v0Utpns_xbd/view?usp=drive_link'    
         * Intermediate Micro Theory
 
 
