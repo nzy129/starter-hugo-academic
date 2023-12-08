@@ -33,8 +33,6 @@ experience:
     date_end: '2022-05-15'
     description: |2-
 
-    text: 'syllabus'
-    url: 'https://drive.google.com/file/d/1VRLC7ljGz7wPFiQeeEP37v0Utpns_xbd/view?usp=drive_link'    
         * Intermediate Micro Theory
 
 
