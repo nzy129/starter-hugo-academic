@@ -25,6 +25,7 @@ experience:
   - title: Instructor
     company: The Ohio State University
     company_url: ''
+    url_pdf: 'https://drive.google.com/file/d/1VRLC7ljGz7wPFiQeeEP37v0Utpns_xbd/view?usp=drive_link'
     company_logo: org-OSU2
     location: Columbus
     date_start: '2020-05-01'
