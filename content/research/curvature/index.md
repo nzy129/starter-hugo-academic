@@ -1,11 +1,11 @@
 ---
-title: “Reinforcement Learning and Demand Estimation” 
+title: “Nested Logit or Random Coefficient Logit? From the Perspective of Demand Curvature” 
 summary: In Progress
 
 
 tags:
   - Consumer Behavior
-date: '2025-03-17T00:00:00Z'
+date: '2019-08-17T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
