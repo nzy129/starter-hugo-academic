@@ -1,6 +1,6 @@
 ---
-title: Competition \& Price Dispersion: Lessons from the Northeast Alliance
-summary: 	This paper examines the price effect and efficiency of codeshare contracts between codeshare carriers in the airline industry. Different supply models of vertical relationships are compared. The models considered are a vertically integrated model, a linear pricing model, a linear pricing model unifying firm's both upstream and downstream profit, an alternative linear pricing model that allows upstream markup only in specific markets, and a model that allows for cooperative pricing behavior within codeshare alliances. I provide empirical evidence that no upstream margin exists in the vertical relationship, but the U.S. domestic codeshare agreement facilitates tacit collusion. Counterfactual simulations show that prices would be about 2\% lower under Nash-Bertrand competition but the withdrawal of codeshare products decreases the consumer surplus in 46.42\% of markets where the benefits of product variety outweigh the price effects. 
+title: "Competition & Price Dispersion: Lessons from the Northeast Alliance"
+summary: 	"This paper explores the effects of the Northeast Alliance (NEA) between American Airlines and JetBlue Airways on airfares. The NEA led to a 3.9% reduction in airfares at LaGuardia Airport, demonstrating the relationship between competition and pricing in alliance markets. While JetBlue's entry into these markets did not lower overall airfares, it reduced prices for lower-end products in markets where JetBlue already operated. Our findings suggest that reduced competition allows firms to more effectively price discriminate."
 tags:
   - Vertical Competition
 date: '2023-04-27T00:00:00Z'
