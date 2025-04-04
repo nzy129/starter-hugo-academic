@@ -37,5 +37,7 @@ highlight_name: true
 
 Zheyu Ni is a Ph.D. candidate in Economics at The Ohio State University. Her research focuses on vertical market structures, two-sided markets, and merger analysis, with applications in the airline and coffee industries. She uses large datasets and structural econometric models to estimate the welfare effects of mergers and policy changes. Additionally, she is currently working on integrating reinforcement learning techniques with demand estimation to develop data-driven models for revenue optimization.
 
-
+<!-- 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+-->
