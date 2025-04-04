@@ -4,7 +4,7 @@ summary: In Progress
 
 
 tags:
-  - Pricing Optimization
+  - Consumer Behavior
 date: '2025-03-17T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
