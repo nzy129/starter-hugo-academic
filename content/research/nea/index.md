@@ -1,13 +1,12 @@
 ---
-title: Competition \& Price Dispersion: Lessons from the Northeast Alliance
-summary: 	This paper explores the effects of the Northeast Alliance (NEA), between American Airlines and JetBlue Airways on airfares and the relationship between competition and price alliance markets but significantly reduced airfares by 3.9\% at LaGuardia Airport. While JetBlue’s entry into alliance markets did not lower overall airfares, its entry reduced prices for lower-end products in markets where JetBlue had previously established services. Our finding suggests that softened competition makes it easier for firms to price discriminate.
-
+title: Price Effect and Efficiency of Codeshare Contracts Between Airlines
+summary: 	This paper examines the price effect and efficiency of codeshare contracts between codeshare carriers in the airline industry. Different supply models of vertical relationships are compared. The models considered are a vertically integrated model, a linear pricing model, a linear pricing model unifying firm's both upstream and downstream profit, an alternative linear pricing model that allows upstream markup only in specific markets, and a model that allows for cooperative pricing behavior within codeshare alliances. I provide empirical evidence that no upstream margin exists in the vertical relationship, but the U.S. domestic codeshare agreement facilitates tacit collusion. Counterfactual simulations show that prices would be about 2\% lower under Nash-Bertrand competition but the withdrawal of codeshare products decreases the consumer surplus in 46.42\% of markets where the benefits of product variety outweigh the price effects. 
 tags:
   - Vertical Competition
 date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5189814'
+external_link: ''
 
 image:
   caption: #Photo by rawpixel on Unsplash
@@ -19,7 +18,7 @@ image:
   #  name: Follow
   #  url: 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1ELcBBPm5jNV3ED0lkiSPPGFSRRxx8Fla/view?usp=sharing'
 url_slides: ''
 url_video: ''
 
@@ -30,3 +29,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 
+---
