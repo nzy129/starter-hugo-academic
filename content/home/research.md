@@ -27,12 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Vertical Competition
-      tag: Vertical Competition
     - name: Two-Sided Market
       tag: Two-Sided Market
     - name: Firm Behavior
       tag: Firm Behavior
+    - name: Dynamic Pricing
+      tag: Dynamic Pricing
     - name: Other
       tag: Demo
 design:
