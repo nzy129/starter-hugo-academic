@@ -31,8 +31,8 @@ content:
       tag: Vertical Competition
     - name: Two-Sided Market
       tag: Two-Sided Market
-    - name: Consumer Behavior
-      tag: Consumer Behavior
+    - name: Firm Behavior
+      tag: Firm Behavior
     - name: Other
       tag: Demo
 design:
