@@ -1,6 +1,6 @@
 ---
 title:  Competition & Price Dispersion: Lessons from the Northeast Alliance
-summary: This paper explores the effects of the Northeast Alliance (NEA), between American Airlines and JetBlue Airways on airfares and the relationship between competition and price alliance markets but significantly reduced airfares by 3.9% at LaGuardia Airport. While JetBlue’s entry into alliance markets did not lower overall airfares, its entry reduced prices for lower-end products in markets where JetBlue had previously established services. Our finding suggests that softened competition makes it easier for firms to price discriminate.
+summary: This paper explores the effects of the Northeast Alliance (NEA), between American Airlines and JetBlue Airways on airfares and the relationship between competition and price alliance markets but significantly reduced airfares by 3.9\% at LaGuardia Airport. While JetBlue’s entry into alliance markets did not lower overall airfares, its entry reduced prices for lower-end products in markets where JetBlue had previously established services. Our finding suggests that softened competition makes it easier for firms to price discriminate.
 
 tags:
   - Firm Behavior
