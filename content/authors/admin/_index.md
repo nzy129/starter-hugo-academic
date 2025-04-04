@@ -1,6 +1,6 @@
 ---
 title: Zheyu Ni
-role: "Ph.D. Economist at Digonex "
+role: "Economist"
 bio: "My research interests include airline industry, coffee industry, two-sided markets,
   vertical integration. "
 interests:
