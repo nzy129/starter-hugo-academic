@@ -1,5 +1,5 @@
 ---
-title: “Reinforcement Learning and Demand Estimation” 
+title: Reinforcement Learning and Demand Estimation
 summary: In Progress
 
 
