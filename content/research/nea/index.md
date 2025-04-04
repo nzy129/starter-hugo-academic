@@ -7,7 +7,7 @@ tags:
 date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5189814'
 
 image:
   caption: #Photo by rawpixel on Unsplash
@@ -19,7 +19,7 @@ image:
   #  name: Follow
   #  url: 
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1ELcBBPm5jNV3ED0lkiSPPGFSRRxx8Fla/view?usp=sharing'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
