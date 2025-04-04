@@ -5,7 +5,7 @@ summary: In Progress
 
 tags:
   - Dynamic Pricing
-date: '2023-08-17T00:00:00Z'
+date: '2022-08-17T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
