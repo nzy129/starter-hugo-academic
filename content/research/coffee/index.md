@@ -7,7 +7,7 @@ tags:
 date: '2023-08-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876890'
 
 image:
   caption: #Photo by rawpixel on Unsplash
