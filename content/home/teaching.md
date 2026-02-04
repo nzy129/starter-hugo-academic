@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 experience:
 
-- title: Economist
+  - title: Economist
     company: Digonex
     company_url: ''
     company_logo:
