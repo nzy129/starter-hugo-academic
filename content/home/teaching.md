@@ -26,9 +26,7 @@ experience:
 - title: Instructor
     company: Digonex
     company_url: ''
-    
-    
-    company_logo: org-OSU2
+    company_logo:
     location: Indianapolis
     date_start: '2024-06-01'
     date_end: ''
@@ -38,8 +36,6 @@ experience:
   - title: Instructor
     company: The Ohio State University
     company_url: ''
-    
-    
     company_logo: org-OSU2
     location: Columbus
     date_start: '2020-05-01'
