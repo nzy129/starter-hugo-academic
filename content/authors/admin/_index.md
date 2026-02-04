@@ -5,7 +5,7 @@ bio: "My research interests include airline industry, coffee industry, two-sided
   vertical integration. "
 interests:
   - Empirical Industrial Organization
-  - Micro Theory
+  - Algorithmic Pricing
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,7 +35,12 @@ superuser: true
 highlight_name: true
 ---
 
-Zheyu Ni is a Ph.D. candidate in Economics at The Ohio State University. Her research focuses on vertical market structures, two-sided markets, and merger analysis, with applications in the airline and coffee industries. She uses large datasets and structural econometric models to estimate the welfare effects of mergers and policy changes. Additionally, she is currently working on experimentation and demand estimation to develop data-driven models for revenue optimization.
+Zheyu Ni is an economist specializing in algorithmic pricing, demand estimation, and revenue optimization. She works at the intersection of econometrics and machine learning, building production-ready pricing and forecasting models for real-world marketplaces.
+
+Currently, she is an Economist at Digonex, where she develops and deploys dynamic pricing and demand forecasting algorithms to support revenue optimization for live entertainment and attractions. Her work combines structural economic modeling, causal inference, and empirical methods, with close collaboration across engineering and marketing teams.
+
+Zheyu holds a Ph.D. in Economics from The Ohio State University, with a focus on industrial organization. Her interests include algorithmic pricing, two-sided markets, and market competition. She is currently working on experimentation and demand estimation to develop data-driven models that support scalable revenue optimization.
+
 
 <!-- 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
