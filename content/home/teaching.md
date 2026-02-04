@@ -30,7 +30,7 @@ experience:
     
     company_logo: org-OSU2
     location: Indianapolis
-    date_start: '2024-06'
+    date_start: '2024-06-01'
     date_end: ''
     description: 
 
