@@ -23,7 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-- title: Instructor
+
+- title: Economist
     company: Digonex
     company_url: ''
     company_logo:
