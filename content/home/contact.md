@@ -27,11 +27,9 @@ content:
   # Contact details (edit or remove options as required)
   email: nzy129 \at\ gmail.com
   address:
-    room: 410 Arps Hall
-    street: 1945 N. High St.
-    city: Columbus
-    region: OH
-    postcode: '43210'
+    city: Indianapolis
+    region: IN
+    postcode: '46204'
     country: United States
     country_code: US
 

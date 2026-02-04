@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: Teaching
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -21,12 +21,22 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+
+  - title: Economist
+    company: Digonex
+    company_url: ''
+    company_logo: Digoex_X_black_blue
+    location: Indianapolis
+    date_start: '2024-06-01'
+    date_end: ''
+    description: 
+
+
   - title: Instructor
     company: The Ohio State University
     company_url: ''
-    
-    
     company_logo: org-OSU2
     location: Columbus
     date_start: '2020-05-01'
@@ -42,7 +52,7 @@ experience:
     company_logo: org-OSU2
     location: Columbus
     date_start: '2019-08-01'
-    date_end: ''
+    date_end: '2024-05-05'
     description:  |2-
        
         * Lead recitation for the principle of microeconomics and the principle of macroeconomics.
