@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: ni.271 \at\ osu.edu
+  email: nzy129 \at\ gmail.com
   address:
     room: 410 Arps Hall
     street: 1945 N. High St.
