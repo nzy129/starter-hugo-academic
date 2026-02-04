@@ -35,11 +35,9 @@ superuser: true
 highlight_name: true
 ---
 
-Zheyu Ni is an economist specializing in algorithmic pricing, demand estimation, and revenue optimization. She works at the intersection of econometrics and machine learning, building production-ready pricing and forecasting models for real-world marketplaces.
+Zheyu Ni is an economist specializing in algorithmic pricing, demand estimation, and two-sided markets. She works at the intersection of econometrics and machine learning, building production-ready pricing and forecasting models for real-world marketplaces.
 
-Currently, she is an Economist at Digonex, where she develops and deploys dynamic pricing and demand forecasting algorithms to support revenue optimization for live entertainment and attractions. Her work combines structural economic modeling, causal inference, and empirical methods, with close collaboration across engineering and marketing teams.
-
-Zheyu holds a Ph.D. in Economics from The Ohio State University, with a focus on industrial organization. Her interests include algorithmic pricing, two-sided markets, and market competition. She is currently working on experimentation and demand estimation to develop data-driven models that support scalable revenue optimization.
+Currently, she is an Economist at Digonex, where she develops and deploys dynamic pricing and demand forecasting algorithms to support revenue optimization for live entertainment and attractions. Her work combines structural economic modeling, causal inference, and empirical methods, with close collaboration across engineering and marketing teams. She also works on experimentation and demand estimation to develop scalable, data-driven models that support revenue optimization.
 
 
 <!-- 
