@@ -27,7 +27,7 @@ experience:
   - title: Economist
     company: Digonex
     company_url: ''
-    company_logo: Digoex_X_black_blue
+    company_logo: 
     location: Indianapolis
     date_start: '2024-06-01'
     date_end: ''
